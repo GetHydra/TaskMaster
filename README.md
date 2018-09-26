@@ -9,4 +9,4 @@
 - [] Reconfigure Boost charting system for R shiny  
   
 ## Phil  
-- [] Drink coffee
+- [x] Drink coffee
