@@ -7,6 +7,7 @@
 - [x] Calculate percentage error V1 to V2
 - [] Initial Boost performance feature extraction
 - [] Sku pull for Greg  
+- [] Tray test  
   
 ## Albert
 - [x] Espresso plz
@@ -14,4 +15,6 @@
 - [] Mean daily milk related sales
 - [] Holiday weight update for coffee day
 ## Phil
-- [x] Drink coffee
+- [x] Drink coffee  
+- [] Light diode test  
+  
