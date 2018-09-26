@@ -11,6 +11,6 @@
 - [x] Espresso plz
 - [] Reconfigure Boost charting system for R shiny
 - [] Mean daily milk related sales
-
+- [] Holiday weight update for coffee day
 ## Phil
 - [x] Drink coffee
