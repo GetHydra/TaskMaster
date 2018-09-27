@@ -18,7 +18,9 @@
 - [x] Holiday weight update for coffee day
 - [x] Static Boost .png (from Python) into R Shiny
 - [] update colombe order
+- [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
+- [] investigate the *thing*
 ## Phil
 - [x] Drink coffee
 - [] Light diode test
