@@ -7,7 +7,9 @@
 - [x] Calculate percentage error V1 to V2
 - [x] Sku pull for Greg
 - [x] Tray test
-- [] Initial Boost performance feature extraction
+- [x] Initial Boost performance feature extraction
+- [] Boost technology classification
+- [] Camera/GPS
 - [] Test apple counting solution
 
 ## Albert
