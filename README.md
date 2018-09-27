@@ -8,12 +8,13 @@
 - [] Initial Boost performance feature extraction
 - [] Sku pull for Greg
 - [] Tray test
-- [] Test apple counting solution  
-  
+- [] Test apple counting solution
+
 ## Albert
 - [x] Espresso plz
 - [x] Mean daily milk related sales
 - [x] Holiday weight update for coffee day
+- [x] Static Boost .png (from Python) into R Shiny
 - [] Reconfigure Boost charting system for R shiny
 ## Phil
 - [x] Drink coffee
