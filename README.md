@@ -8,7 +8,8 @@
 - [] Initial Boost performance feature extraction
 - [] Sku pull for Greg
 - [] Tray test
-
+- [] Test apple counting solution  
+  
 ## Albert
 - [x] Espresso plz
 - [x] Mean daily milk related sales
