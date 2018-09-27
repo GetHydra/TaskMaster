@@ -5,8 +5,8 @@
 ## Gautam
 - [x] Food Coma - nap time
 - [x] Calculate percentage error V1 to V2
+- [x] Sku pull for Greg
 - [] Initial Boost performance feature extraction
-- [] Sku pull for Greg
 - [] Tray test
 - [] Test apple counting solution
 
