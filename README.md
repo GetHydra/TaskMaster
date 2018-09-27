@@ -6,8 +6,8 @@
 - [x] Food Coma - nap time
 - [x] Calculate percentage error V1 to V2
 - [x] Sku pull for Greg
+- [x] Tray test
 - [] Initial Boost performance feature extraction
-- [] Tray test
 - [] Test apple counting solution
 
 ## Albert
