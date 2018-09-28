@@ -17,6 +17,7 @@
 - [x] Mean daily milk related sales
 - [x] Holiday weight update for coffee day
 - [x] Static Boost .png (from Python) into R Shiny
+- [x] Review orders re: error charts -- thru 9/27 is OK
 - [] update colombe order
 - [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
