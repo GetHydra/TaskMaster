@@ -22,7 +22,9 @@
 - [] "Suratoge Natural Spring Water, Martimeils Pure Apple Juice" ???
 - [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
-- [] investigate the *thing*
+- [] investigate the *thing*  
+- [] Daily averages by location for past 30 days  
+  
 ## Phil
 - [x] Drink coffee
 - [] Light diode test
