@@ -19,12 +19,12 @@
 - [x] Static Boost .png (from Python) into R Shiny
 - [x] Review orders re: error charts -- thru 9/27 is OK
 - [x] update colombe order + birch order
-- [] "Suratoge Natural Spring Water, Martimeils Pure Apple Juice" ???
+- [x] "Suratoge Natural Spring Water, Martimeils Pure Apple Juice" ???
+- [x] Daily averages by location for past 30 days
 - [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
-- [] investigate the *thing*  
-- [] Daily averages by location for past 30 days  
-  
+- [] investigate the *thing*
+
 ## Phil
 - [x] Drink coffee
 - [] Light diode test
