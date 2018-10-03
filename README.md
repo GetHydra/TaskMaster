@@ -26,7 +26,8 @@
 - [x] investigate the *thing*
 - [] Coffee Day Investigation Chart
 - [] Square data in PG query speed
-- [] re-factor plus_1_boost.py
+- [] re-factor plus_1_boost.py  
+- [] Add no Holiday Rule for Boost  
 
 ## Phil
 - [x] Drink coffee
