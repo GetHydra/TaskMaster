@@ -10,7 +10,9 @@
 - [x] Initial Boost performance feature extraction
 - [] Boost technology classification
 - [] Camera Tests (two streaming on one Pi)
-- [] Test apple counting solution
+- [] Test apple counting solution  
+- [] Boost Fix  
+
 
 ## Albert
 - [x] Espresso plz
