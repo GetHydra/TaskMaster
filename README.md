@@ -9,7 +9,7 @@
 - [x] Tray test
 - [x] Initial Boost performance feature extraction
 - [] Boost technology classification
-- [] Camera/GPS
+- [] Camera Tests (two streaming on one Pi)  
 - [] Test apple counting solution
 
 ## Albert
@@ -23,9 +23,11 @@
 - [x] Daily averages by location for past 30 days
 - [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
-- [] investigate the *thing*
+- [x] investigate the *thing*  
+- [] Coffee Day Investigation Chart  
+
 
 ## Phil
 - [x] Drink coffee
-- [] Light diode test
+
 
