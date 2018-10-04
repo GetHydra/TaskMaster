@@ -13,9 +13,9 @@
 - [] Test apple counting solution
 - [] Boost Fix  
 - [] Tandem Code Lunch and Learn  
+- [] MPEG4 uploader  
+
   
-
-
 ## Albert
 - [x] Espresso plz
 - [x] Mean daily milk related sales
@@ -32,7 +32,8 @@
 - [] Square data in PG query speed
 - [] re-factor plus_1_boost.py
 - [] Add no Holiday Rule for Boost
-- [] GMV dash
+- [] GMV dash  
+- [] Geo Analysis System
 
 ## Phil
 - [x] Drink coffee
