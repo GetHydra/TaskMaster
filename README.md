@@ -11,7 +11,9 @@
 - [] Boost technology classification
 - [] Camera Tests (two streaming on one Pi)
 - [] Test apple counting solution
-- [] Boost Fix
+- [] Boost Fix  
+- [] Tandem Code Lunch and Learn  
+  
 
 
 ## Albert
