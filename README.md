@@ -10,8 +10,8 @@
 - [x] Initial Boost performance feature extraction
 - [] Boost technology classification
 - [] Camera Tests (two streaming on one Pi)
-- [] Test apple counting solution  
-- [] Boost Fix  
+- [] Test apple counting solution
+- [] Boost Fix
 
 
 ## Albert
@@ -30,6 +30,7 @@
 - [] Square data in PG query speed
 - [] re-factor plus_1_boost.py
 - [] Add no Holiday Rule for Boost
+- [] GMV dash
 
 ## Phil
 - [x] Drink coffee
