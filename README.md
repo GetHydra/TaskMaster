@@ -13,7 +13,8 @@
 - [] Test apple counting solution
 - [] Boost Fix
 - [] Tandem Code Lunch and Learn
-- [] MPEG4 uploader
+- [] MPEG4 uploader  
+- [x] Thermo test  
 
 
 ## Albert
