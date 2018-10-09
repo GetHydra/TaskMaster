@@ -13,8 +13,8 @@
 - [] Test apple counting solution
 - [] Boost Fix
 - [] Tandem Code Lunch and Learn
-- [] MPEG4 uploader  
-- [x] Thermo test  
+- [] MPEG4 uploader
+- [x] Thermo test
 
 
 ## Albert
@@ -30,13 +30,15 @@
 - [x] Coffee Day Investigation Chart
 - [x] re-factor plus_1_boost.py
 - [x] GMV monthly breakdown
-- [] profit/waste charts for all locations
+- [] map profit/waste charts for all locations
 - [] GMV dash
 - [] Add no Holiday Rule for Boost
 - [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
 - [] Geo Analysis System
 - [] Square data in PG query speed
+- [] spatial merch dashboard
+- [] chart toolkit
 
 ## Phil
 - [x] Drink coffee
