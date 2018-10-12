@@ -30,6 +30,7 @@
 - [x] Coffee Day Investigation Chart
 - [x] re-factor plus_1_boost.py
 - [x] GMV monthly breakdown
+- [] Boost logic band-aid
 - [] map profit/waste charts for all locations
 - [] GMV dash
 - [] Add no Holiday Rule for Boost
