@@ -32,7 +32,7 @@
 - [x] GMV monthly breakdown
 - [] Boost logic band-aid
 - [] map profit/waste charts for all locations
-- [] GMV dash
+- [x] GMV dash
 - [] Add no Holiday Rule for Boost
 - [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
@@ -40,6 +40,7 @@
 - [] Square data in PG query speed
 - [] spatial merch dashboard
 - [] chart toolkit
+- [] grab-n-go profit/loss for 5 birch locs
 
 ## Phil
 - [x] Drink coffee
