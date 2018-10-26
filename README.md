@@ -30,9 +30,14 @@
 - [x] Coffee Day Investigation Chart
 - [x] re-factor plus_1_boost.py
 - [x] GMV monthly breakdown
+- [x] GMV dash
+- [x] prelimary delivery map
+- [x] map stat breakdown
+- [x] tune birch location lat/lngs
+- [] map stat compiling over time
+- [] full map dashboard
 - [] Boost logic band-aid
 - [] map profit/waste charts for all locations
-- [x] GMV dash
 - [] Add no Holiday Rule for Boost
 - [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
