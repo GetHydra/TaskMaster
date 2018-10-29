@@ -9,13 +9,13 @@
 - [x] Tray test
 - [x] Initial Boost performance feature extraction
 - [] Boost technology classification
-- [] Camera Tests (two streaming on one Pi)
-- [] Test apple counting solution
-- [] Boost Fix
+- [x] Camera Tests (two streaming on one Pi)
+- [x] Test apple counting solution
+- [x] Boost Fix
 - [] Tandem Code Lunch and Learn
 - [] MPEG4 uploader
 - [x] Thermo test
-
+- [] Smartbins 2.0
 
 ## Albert
 - [x] Espresso plz
