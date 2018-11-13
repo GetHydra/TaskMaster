@@ -15,7 +15,11 @@
 - [] Tandem Code Lunch and Learn
 - [] MPEG4 uploader
 - [x] Thermo test
-- [] Smartbins 2.0
+- [x] Smartbins 2.0 (restartable bins with shadow)
+- [] Smartbins easy data access pipeline
+- [x] Clover deep dive
+- [] Clover psql integration
+- [] Ultron multi-day cookie issue
 
 ## Albert
 - [x] Espresso plz
