@@ -38,17 +38,16 @@
 - [x] prelimary delivery map
 - [x] map stat breakdown
 - [x] tune birch location lat/lngs
-- [] map stat compiling over time
-- [] full map dashboard
-- [] Boost logic band-aid
-- [] map profit/waste charts for all locations
+- [x] map stat compiling over time
+- [x] full map dashboard
+- [x] map profit/waste charts for all locations
 - [] Add no Holiday Rule for Boost
 - [] heat error -> shiny interactivity
 - [] Reconfigure Boost charting system for R shiny
-- [] Geo Analysis System
+- [x] Geo Analysis System
 - [] Square data in PG query speed
 - [] spatial merch dashboard
-- [] chart toolkit
+- [x] chart toolkit
 - [] grab-n-go profit/loss for 5 birch locs
 
 ## Phil
