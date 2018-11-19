@@ -16,7 +16,7 @@
 - [] MPEG4 uploader
 - [x] Thermo test
 - [x] Smartbins 2.0 (restartable bins with shadow)
-- [] Smartbins easy data access pipeline
+- [x] Smartbins easy data access pipeline (endoints for /count and /csv)
 - [x] Clover deep dive
 - [] Clover psql integration
 - [] Ultron multi-day cookie issue
