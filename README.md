@@ -11,7 +11,7 @@
 - [] Boost technology classification
 - [x] Camera Tests (two streaming on one Pi)
 - [x] Test apple counting solution
-- [x] Boost Fix
+- [x] Boost Fix (throttle)
 - [] Tandem Code Lunch and Learn
 - [] MPEG4 uploader
 - [x] Thermo test
@@ -19,7 +19,10 @@
 - [x] Smartbins easy data access pipeline (endoints for /count and /csv)
 - [x] Clover deep dive
 - [] Clover psql integration
-- [] Ultron multi-day cookie issue
+- [x] TNG BI
+- [x] Ultron multi-day scheduling
+- [] Simplex stop-gap (vendor ordering rules)
+- [] Mumra
 
 ## Albert
 - [x] Espresso plz
