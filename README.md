@@ -19,8 +19,9 @@
 - [x] Smartbins easy data access pipeline (endoints for /count and /csv)
 - [x] Clover deep dive
 - [] Clover psql integration
-- [x] TNG BI
+- [] TNG BI (ongoing)
 - [x] Ultron multi-day scheduling
+- [x] SO log viewer (aka vanilla yogurt fire)
 - [] Simplex stop-gap (vendor ordering rules)
 - [] Mumra
 
