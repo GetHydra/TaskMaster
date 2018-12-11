@@ -18,12 +18,15 @@
 - [x] Smartbins 2.0 (restartable bins with shadow)
 - [x] Smartbins easy data access pipeline (endoints for /count and /csv)
 - [x] Clover deep dive
-- [] Clover psql integration
 - [] TNG BI (ongoing)
 - [x] Ultron multi-day scheduling
 - [x] SO log viewer (aka vanilla yogurt fire)
-- [] Simplex stop-gap (vendor ordering rules)
 - [] Mumra
+- [] Yelp Business Search Utility
+- [] Order outliers (model dampening)
+### critical
+- [] **Clover schema for SO integration**
+- [] **Simplex stop-gap (vendor ordering rules) - specifically for tablet orders**
 
 ## Albert
 - [x] Espresso plz
