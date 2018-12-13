@@ -22,9 +22,8 @@
 - [x] Ultron multi-day scheduling
 - [x] SO log viewer (aka vanilla yogurt fire)
 - [] Mumra
-- [] Yelp Business Search Utility
+- [x] Yelp Business Search Utility
 - [] Order outliers (model dampening)
-### critical
 - [] **Clover schema for SO integration**
 - [] **Simplex stop-gap (vendor ordering rules) - specifically for tablet orders**
 
