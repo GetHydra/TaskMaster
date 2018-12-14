@@ -23,8 +23,8 @@
 - [x] SO log viewer (aka vanilla yogurt fire)
 - [] Mumra
 - [x] Yelp Business Search Utility
-- [] Order outliers (model dampening)
-- [] **Clover schema for SO integration**
+- [] **Order outliers (model dampening)**
+- [x] Clover schema for SO integration
 - [] **Simplex stop-gap (vendor ordering rules) - specifically for tablet orders**
 
 ## Albert
