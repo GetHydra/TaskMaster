@@ -8,24 +8,30 @@
 - [x] Sku pull for Greg
 - [x] Tray test
 - [x] Initial Boost performance feature extraction
-- [] Boost technology classification
 - [x] Camera Tests (two streaming on one Pi)
 - [x] Test apple counting solution
 - [x] Boost Fix (throttle)
-- [] Tandem Code Lunch and Learn
-- [] MPEG4 uploader
 - [x] Thermo test
 - [x] Smartbins 2.0 (restartable bins with shadow)
 - [x] Smartbins easy data access pipeline (endoints for /count and /csv)
 - [x] Clover deep dive
-- [] TNG BI (ongoing)
 - [x] Ultron multi-day scheduling
 - [x] SO log viewer (aka vanilla yogurt fire)
-- [] Mumra
 - [x] Yelp Business Search Utility
-- [] **Order outliers (model dampening)**
 - [x] Clover schema for SO integration
+- [x] La Colombe fire
+- [x] Holiday Weights defaults
+- [] **Banana Bread - multi day revisited**
+- [] **Order outliers (model dampening)**
+- [] **Remove closed days from training**
+- [] **Inverse weights to training**
+- [] **Over-order fix.  More consistency in incoming orders?**
 - [] **Simplex stop-gap (vendor ordering rules) - specifically for tablet orders**
+- [] Tandem Code Lunch and Learn
+- [] MPEG4 uploader
+- [] Boost technology classification
+- [] TNG BI (ongoing)
+- [] Mumra
 
 ## Albert
 - [x] Espresso plz
