@@ -21,7 +21,10 @@
 - [x] Clover schema for SO integration
 - [x] La Colombe fire
 - [x] Holiday Weights defaults
-- [] **Banana Bread - multi day revisited**
+- [x] TNG BI (ongoing)
+  * cohort
+  * gamers
+- [x] Banana Bread - multi day revisited
 - [] **Order outliers (model dampening)**
 - [] **Remove closed days from training**
 - [] **Inverse weights to training**
